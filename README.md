@@ -42,4 +42,5 @@ Standard user-space security tools and antivirus software often fail to identify
 ## ⚠️ Disclaimer
 
 *This repository and the information contained herein are intended solely for educational, research, and authorized defensive security purposes. Misuse of this information can result in severe legal consequences.*
+
 CTF{every_packet_leaves_a_trace}
